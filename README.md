@@ -21,7 +21,8 @@ It uses the [Policy schema](https://docs.microsoft.com/en-us/aspnet/core/securit
 
 
 Authorization
-JWT Token
+JWT Token 
+![Basci token based flow](https://user-images.githubusercontent.com/5093598/140633499-5addcedc-144a-4ae4-9d96-7b1919ff9921.png)
 
 
 
