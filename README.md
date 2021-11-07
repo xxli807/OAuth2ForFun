@@ -30,3 +30,6 @@ JWT Token
 ### concept
 Scopt: client include in the reuqest to ask for permission
 Claim: server receies the scopt and issue different cliam to indicate the information. 
+
+
+External [doc](https://www.linkedin.com/pulse/api-security-part-3-design-oauth-scopes-claims-based-neeli/) explained how it works
