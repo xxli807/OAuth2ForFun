@@ -19,3 +19,9 @@ app.UseAuthorization().AddJwtBearer(Config)
 Authentication,
 It uses the [Policy schema](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/policyschemes?view=aspnetcore-6.0)
 
+
+Authorization
+JWT Token
+
+
+
