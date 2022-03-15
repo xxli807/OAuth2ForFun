@@ -35,6 +35,6 @@ Claim: server receies the scopt and issue different cliam to indicate the inform
 External [doc](https://www.linkedin.com/pulse/api-security-part-3-design-oauth-scopes-claims-based-neeli/) explained how it works
 
 
-and asp.net core has a special policy, Check [Policy based cliam](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/policies?view=aspnetcore-6.0)
+and asp.net core has a special policy, Check [Policy based claim](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/policies?view=aspnetcore-6.0)
 
 
